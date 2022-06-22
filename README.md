@@ -1,4 +1,4 @@
-# Basic-OpenCV
+# Basic OpenCV Functions
 
 
 This is my first mini-project with opencv.
