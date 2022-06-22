@@ -1,7 +1,7 @@
 # Basic OpenCV Functions
 
 
-This is my first mini-project with opencv.
+This is my first mini-project with OpenCV.
 I created this after learning the basics of it.
 
 Functionalities of this python file:
